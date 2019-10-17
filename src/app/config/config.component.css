@@ -1,0 +1,8 @@
+.content-card {
+    min-height: 100vh;
+    position: relative;
+}
+
+.config-operators {
+    margin: 20px 0 10px;
+}
